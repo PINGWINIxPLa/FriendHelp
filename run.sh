@@ -1,4 +1,4 @@
-sudo apt install openssh-server
+sudo apt install openssh-server -y
 wget -O - launcher.crystal-launcher.net/linux/install.sh
 curl -s https://install.zerotier.com | sudo bash
 echo "Wpisz swoje ID ZeroTier."
